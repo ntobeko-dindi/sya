@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "781277044000",
+    "project_id": "one-voice-one-residence",
+    "storage_bucket": "one-voice-one-residence.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781277044000:android:ccfe48f53b37007722cb45",
+        "android_client_info": {
+          "package_name": "com.example.one_voice_one_residence"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781277044000-7th834spk940vjo9l21b5k069vh3ehho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_bvHopZ4waeKd2ZR9vF9ABMVWyAzlppQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "781277044000-7th834spk940vjo9l21b5k069vh3ehho.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
